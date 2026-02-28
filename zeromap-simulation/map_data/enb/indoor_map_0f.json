@@ -1,0 +1,415 @@
+{
+  "nodes": [
+    {
+      "id": "Node1",
+      "coords": [117.83, 390.59]
+    },
+    {
+      "id": "Node2",
+      "coords": [23.65, 1177.67]
+    },
+    {
+      "id": "Node3",
+      "coords": [122.88, 550.41]
+    },
+    {
+      "id": "Node4",
+      "coords": [9.53, 848.72]
+    },
+    {
+      "id": "Node5",
+      "coords": [160.01, 896.23]
+    },
+    {
+      "id": "Node6",
+      "coords": [36.52, 698.36]
+    },
+    {
+      "id": "Node7",
+      "coords": [32.96, 951.07]
+    },
+    {
+      "id": "Node8",
+      "coords": [105.20, 1349.24]
+    },
+    {
+      "id": "Node9",
+      "coords": [174.65, 168.39]
+    },
+    {
+      "id": "Node10",
+      "coords": [2.45, 168.93]
+    },
+    {
+      "id": "Node11",
+      "coords": [47.29, 171.20]
+    },
+    {
+      "id": "Node12",
+      "coords": [124.17, 558.35]
+    },
+    {
+      "id": "Node13",
+      "coords": [52.55, 582.60]
+    },
+    {
+      "id": "Node14",
+      "coords": [55.11, 550.70]
+    },
+    {
+      "id": "Node15",
+      "coords": [16.79, 1104.94]
+    },
+    {
+      "id": "Node16",
+      "coords": [160.85, 802.12]
+    },
+    {
+      "id": "Node17",
+      "coords": [121.64, 853.77]
+    },
+    {
+      "id": "Node18",
+      "coords": [130.89, 1264.62]
+    },
+    {
+      "id": "Node19",
+      "coords": [8.93, 949.34]
+    },
+    {
+      "id": "Node20",
+      "coords": [56.68, 379.21]
+    },
+    {
+      "id": "Node21",
+      "coords": [52.47, 677.92]
+    },
+    {
+      "id": "Node22",
+      "coords": [84.52, 1384.42]
+    },
+    {
+      "id": "Node23",
+      "coords": [115.10, 166.90]
+    },
+    {
+      "id": "Node24",
+      "coords": [151.44, 1188.56]
+    },
+    {
+      "id": "Node25",
+      "coords": [144.96, 1213.91]
+    },
+    {
+      "id": "Node26",
+      "coords": [16.47, 787.51]
+    },
+    {
+      "id": "Node27",
+      "coords": [63.62, 1345.68]
+    },
+    {
+      "id": "Node28",
+      "coords": [30.79, 1212.12]
+    },
+    {
+      "id": "Node29",
+      "coords": [42.05, 1263.80]
+    },
+    {
+      "id": "Node30",
+      "coords": [160.08, 950.14]
+    },
+    {
+      "id": "Node31",
+      "coords": [159.85, 1095.74]
+    },
+    {
+      "id": "Node32",
+      "coords": [16.52, 1153.15]
+    },
+    {
+      "id": "Node33",
+      "coords": [11.51, 464.24]
+    },
+    {
+      "id": "Node34",
+      "coords": [109.56, 254.48]
+    },
+    {
+      "id": "Node35",
+      "coords": [8.20, 809.74]
+    },
+    {
+      "id": "Node36",
+      "coords": [32.26, 968.66]
+    },
+    {
+      "id": "Node37",
+      "coords": [124.48, 681.24]
+    },
+    {
+      "id": "Node38",
+      "coords": [117.66, 1323.97]
+    },
+    {
+      "id": "Node39",
+      "coords": [54.44, 465.00]
+    },
+    {
+      "id": "Node40",
+      "coords": [140.66, 703.94]
+    },
+    {
+      "id": "Node41",
+      "coords": [52.61, 258.92]
+    },
+    {
+      "id": "Node42",
+      "coords": [121.34, 950.43]
+    },
+    {
+      "id": "Node43",
+      "coords": [52.37, 726.65]
+    },
+    {
+      "id": "Node44",
+      "coords": [137.01, 844.87]
+    },
+    {
+      "id": "Node45",
+      "coords": [122.46, 478.23]
+    },
+    {
+      "id": "Node46",
+      "coords": [124.49, 847.21]
+    }
+  ],
+  "edges": [
+    {
+      "start": "Node39",
+      "end": "Node20",
+      "distance": 171.65
+    },
+    {
+      "start": "Node3",
+      "end": "Node14",
+      "distance": 135.53
+    },
+    {
+      "start": "Node1",
+      "end": "Node34",
+      "distance": 272.72
+    },
+    {
+      "start": "Node12",
+      "end": "Node46",
+      "distance": 577.71
+    },
+    {
+      "start": "Node19",
+      "end": "Node15",
+      "distance": 311.59
+    },
+    {
+      "start": "Node21",
+      "end": "Node6",
+      "distance": 51.86
+    },
+    {
+      "start": "Node23",
+      "end": "Node9",
+      "distance": 119.16
+    },
+    {
+      "start": "Node26",
+      "end": "Node35",
+      "distance": 47.43
+    },
+    {
+      "start": "Node24",
+      "end": "Node31",
+      "distance": 186.54
+    },
+    {
+      "start": "Node13",
+      "end": "Node43",
+      "distance": 288.10
+    },
+    {
+      "start": "Node20",
+      "end": "Node41",
+      "distance": 240.73
+    },
+    {
+      "start": "Node5",
+      "end": "Node16",
+      "distance": 188.23
+    },
+    {
+      "start": "Node45",
+      "end": "Node3",
+      "distance": 144.36
+    },
+    {
+      "start": "Node14",
+      "end": "Node13",
+      "distance": 64.01
+    },
+    {
+      "start": "Node41",
+      "end": "Node11",
+      "distance": 175.76
+    },
+    {
+      "start": "Node46",
+      "end": "Node17",
+      "distance": 14.32
+    },
+    {
+      "start": "Node11",
+      "end": "Node10",
+      "distance": 89.84
+    },
+    {
+      "start": "Node39",
+      "end": "Node33",
+      "distance": 85.88
+    },
+    {
+      "start": "Node46",
+      "end": "Node44",
+      "distance": 25.48
+    },
+    {
+      "start": "Node18",
+      "end": "Node24",
+      "distance": 157.79
+    },
+    {
+      "start": "Node8",
+      "end": "Node38",
+      "distance": 56.42
+    },
+    {
+      "start": "Node17",
+      "end": "Node42",
+      "distance": 193.31
+    },
+    {
+      "start": "Node40",
+      "end": "Node37",
+      "distance": 55.74
+    },
+    {
+      "start": "Node2",
+      "end": "Node29",
+      "distance": 176.38
+    },
+    {
+      "start": "Node6",
+      "end": "Node26",
+      "distance": 182.77
+    },
+    {
+      "start": "Node45",
+      "end": "Node1",
+      "distance": 175.52
+    },
+    {
+      "start": "Node31",
+      "end": "Node5",
+      "distance": 399.01
+    },
+    {
+      "start": "Node4",
+      "end": "Node46",
+      "distance": 229.94
+    },
+    {
+      "start": "Node4",
+      "end": "Node19",
+      "distance": 201.24
+    },
+    {
+      "start": "Node42",
+      "end": "Node7",
+      "distance": 176.76
+    },
+    {
+      "start": "Node14",
+      "end": "Node39",
+      "distance": 171.39
+    },
+    {
+      "start": "Node27",
+      "end": "Node22",
+      "distance": 88.14
+    },
+    {
+      "start": "Node32",
+      "end": "Node2",
+      "distance": 51.11
+    },
+    {
+      "start": "Node35",
+      "end": "Node4",
+      "distance": 78.01
+    },
+    {
+      "start": "Node3",
+      "end": "Node12",
+      "distance": 16.09
+    },
+    {
+      "start": "Node28",
+      "end": "Node25",
+      "distance": 228.38
+    },
+    {
+      "start": "Node34",
+      "end": "Node23",
+      "distance": 175.52
+    },
+    {
+      "start": "Node42",
+      "end": "Node30",
+      "distance": 77.49
+    },
+    {
+      "start": "Node19",
+      "end": "Node7",
+      "distance": 48.18
+    },
+    {
+      "start": "Node22",
+      "end": "Node8",
+      "distance": 81.70
+    },
+    {
+      "start": "Node7",
+      "end": "Node36",
+      "distance": 35.19
+    },
+    {
+      "start": "Node15",
+      "end": "Node32",
+      "distance": 96.52
+    },
+    {
+      "start": "Node38",
+      "end": "Node18",
+      "distance": 121.77
+    },
+    {
+      "start": "Node16",
+      "end": "Node40",
+      "distance": 200.48
+    },
+    {
+      "start": "Node29",
+      "end": "Node27",
+      "distance": 169.57
+    }
+  ]
+}

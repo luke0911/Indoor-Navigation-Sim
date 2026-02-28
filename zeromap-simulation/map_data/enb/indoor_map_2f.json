@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "Node1",
+      "coords": [124.95, 822.43]
+    },
+    {
+      "id": "Node2",
+      "coords": [124.76, 840.59]
+    },
+    {
+      "id": "Node3",
+      "coords": [112.97, 850.81]
+    },
+    {
+      "id": "Node4",
+      "coords": [79.42, 886.25]
+    },
+    {
+      "id": "Node5",
+      "coords": [80.57, 867.72]
+    },
+    {
+      "id": "Node6",
+      "coords": [111.68, 868.04]
+    },
+    {
+      "id": "Node7",
+      "coords": [64.90, 1005.07]
+    },
+    {
+      "id": "Node8",
+      "coords": [111.48, 1004.37]
+    },
+    {
+      "id": "Node9",
+      "coords": [27.51, 985.68]
+    },
+    {
+      "id": "Node10",
+      "coords": [28.05, 962.44]
+    },
+    {
+      "id": "Node11",
+      "coords": [64.62, 867.35]
+    },
+    {
+      "id": "Node12",
+      "coords": [19.03, 968.36]
+    },
+    {
+      "id": "Node13",
+      "coords": [19.27, 962.96]
+    },
+    {
+      "id": "Node14",
+      "coords": [63.89, 962.81]
+    }
+  ],
+  "edges": [
+    {
+      "start": "Node2",
+      "end": "Node1",
+      "distance": 36.32
+    },
+    {
+      "start": "Node3",
+      "end": "Node2",
+      "distance": 31.22
+    },
+    {
+      "start": "Node6",
+      "end": "Node3",
+      "distance": 34.57
+    },
+    {
+      "start": "Node5",
+      "end": "Node4",
+      "distance": 37.15
+    },
+    {
+      "start": "Node6",
+      "end": "Node11",
+      "distance": 94.13
+    },
+    {
+      "start": "Node8",
+      "end": "Node6",
+      "distance": 272.66
+    },
+    {
+      "start": "Node7",
+      "end": "Node8",
+      "distance": 93.16
+    },
+    {
+      "start": "Node14",
+      "end": "Node7",
+      "distance": 84.54
+    },
+    {
+      "start": "Node10",
+      "end": "Node9",
+      "distance": 46.51
+    },
+    {
+      "start": "Node13",
+      "end": "Node14",
+      "distance": 89.24
+    },
+    {
+      "start": "Node12",
+      "end": "Node13",
+      "distance": 10.81
+    },
+    {
+      "start": "Node14",
+      "end": "Node11",
+      "distance": 190.94
+    }
+  ]
+}

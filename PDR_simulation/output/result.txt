@@ -1,0 +1,6 @@
+# PDR Simulation Result
+# step_num,time_s,step_length,direction_deg,x,y,amplitude,frequency_hz,peak,valley
+1,0.48,0.43,0,0,0.43,3.52,0,2.16,-1.36
+2,1.28,0.5,0,0,0.93,3.68,1.25,2.34,-1.34
+# Total steps: 2
+# Final position: (0, 0.93)
