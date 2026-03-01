@@ -70,5 +70,7 @@ cmake .. && make -j$(nproc)
 
 ## 관련 프로젝트
 
+- [indoorPDR](https://github.com/luke0911/indoorPDR) - 핵심 PDR 연구 플랫폼
 - [KU-LAB](https://github.com/luke0911/KU-LAB) - 다중 건물 실내 네비게이션 시스템
-- [PDR](https://github.com/luke0911/PDR) - PDR 알고리즘 개발
+- [RL_project](https://github.com/luke0911/RL_project) - 강화학습 기반 PDR 보정
+- [PDR_simulation-Debug](https://github.com/luke0911/PDR_simulation-Debug) - MetaPDR 시뮬레이터 GUI
